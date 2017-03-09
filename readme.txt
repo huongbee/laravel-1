@@ -20,3 +20,6 @@ thêm function tự định nghĩa
             "app/functions.php"
         ]
 3. mở compose chạy lệnh: composer dump-autoload
+
+
+____________________________________________
